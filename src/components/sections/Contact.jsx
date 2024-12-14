@@ -138,7 +138,7 @@ const Contact = () => {
         </Desc>
         <ContactForm onSubmit={handelSubmit}>
           <ContactTitle>
-            Email or Call 🚀 : devvddavid@gmail.com <br />
+            Email or Call 🚀 : devvbobur@gmail.com <br />
             010 4029 9441{" "}
           </ContactTitle>
           {/* <ContactInput placeholder="Your Email" name="from_email" />

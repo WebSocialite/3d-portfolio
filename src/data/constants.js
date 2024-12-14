@@ -550,25 +550,13 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Job-finder-App",
   //   webapp: "https://github.com/rishavchanda/Job-finder-App",
   // },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "2025",
-    description:
-      "in the future",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/WebSocialite",
-    webapp: "",
-  },
+  
   {
     id: 5,
     title: "wonka delivery",
     date: "2023",
     description:
-      "in the future",
+      "A comprehensive food delivery app providing seamless order placement, tracking, and management for both customers and administrators",
     image:
       "https://i.postimg.cc/wvSfTkpm/Screenshot-2024-12-14-at-5-41-08-PM.png",
     tags: ["React Js", "Local Storage", "Auth", "Node JS"],
@@ -592,12 +580,12 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Face Recognition",
-    date: "2025",
+    title: "AI Chatbot",
+    date: "2024",
     description:
-    "in the future",
+    "This is AI CHATBOT project using MERN stack, which is a secure and scalable with advanced authentication.",
     image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "https://i.postimg.cc/prNDhWL0/Screenshot-2024-12-14-at-11-21-57-PM.png",
     tags: ["in the future"],
     category: "machine learning",
     github: "https://github.com/WebSocialite",
